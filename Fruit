@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1> Benefits of Fruit</h1><hr>
+   <!--Apple Section--> 
+    <h2> Apples</h2>
+    <div class= "container">
+      <div class= "img-card">
+        <img src="apple.jpg" alt="apple"/>   
+        
+          <p> Apples are not only delicious but also packed with numerous health benefits!</p>
+          <!--List of Benefits-->
+        <h3> Health Benefits in Question?</h3>
+          <li> Rich in Nutrients</li>
+          <li> Supports Heart Health</li>
+          <li> Boost Immunity</li>
+          <li> Promotes Digestive Health</li><hr>
+        </div>
+          
+      </div>
+      <!--Orange Section-->
+    <h1>Oranges</h1>
+      <div class="container">
+        <div class= "img-card">
+           <img src="orange.jpg" alt="orange" />
+        <p> Oranges aren't not for there juiciness but are also packed with nutrients that contribute to a wide range of health benefits. Below are some of the key advantages of including oranges in your diet:</p>
+        <!--List of Benefits--> 
+          <li> Rich Source of Vitamin C</li>
+          <li> Boost Skin Health</li>
+          <li> Helps with Weight Management</li>
+          <li> Hydrates the Body</li><hr>
+        </div>
+          <!--Berry Section-->
+          <h1>Berries</h1>
+          <div class= "container">
+            <div class= "img-card">
+              <img src="berry.jpg" alt="Berry" />
+   <p> Berries are small, nutrients-dnese fruits that offer a variety of health benefits, These fruits include strwberries, blueberries, raspberries, blackberries, and more, are packed with essentials vitamins, antioxidants, and dietary fiber. Below are some key health benefits of berries</p>
+             <!--List of Benefits-->
+              <li>Supports Brain Health</li>
+              <li> Regulates Blood Sugar Levels</li>
+              <li> Anti-inflammatory Benefits</li>
+              <li>Supports Eye Health</li><hr>
+            </div>      
+              <p> Click here to see how you can incorporate fruits into your diet!</p>
+          <a href="diet.html"> Home</a>       
+  </body>
+</html>
